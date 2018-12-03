@@ -1,0 +1,4 @@
+root.project.name = 'vivero'
+
+include 'informacion'
+include 'datawarehouse'
