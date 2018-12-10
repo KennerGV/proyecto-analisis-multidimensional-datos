@@ -31,3 +31,7 @@
 .vscode/
 tsconfig.json
 jsconfig.json
+
+### Binarios ###
+/informacion/bin/
+/datawarehouse/bin/
