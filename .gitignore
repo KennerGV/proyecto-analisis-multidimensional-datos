@@ -35,3 +35,17 @@ jsconfig.json
 ### Binarios ###
 /informacion/bin/
 /datawarehouse/bin/
+
+### emacs ###
+
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
