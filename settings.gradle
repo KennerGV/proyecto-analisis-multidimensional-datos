@@ -1,4 +1,4 @@
-root.project.name = 'vivero'
+rootProject.name = 'vivero'
 
 include 'informacion'
 include 'datawarehouse'
