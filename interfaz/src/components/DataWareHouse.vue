@@ -75,6 +75,9 @@
     </b-table>
 
    </div>
+   <div v-else>
+     <loader message="Cargando tablas" size="large"></loader>
+   </div>
 
 </template>
 
